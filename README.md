@@ -25,3 +25,10 @@ In file .git/config
 https://github.com....
 to
 git@github.com:.....
+
+
+Heroku Options
+----------------
+### heroku apps:create bootstrapckeditor
+### git push heroku master
+### 
