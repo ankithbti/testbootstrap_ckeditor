@@ -5198,7 +5198,7 @@ input[type="submit"].btn.btn-mini {
 .navbar {
   overflow: visible;
   margin-bottom: 20px;
-  color: #777777;
+  color: #0288ad;
   *position: relative;
   *z-index: 2;
 }
@@ -5269,7 +5269,7 @@ input[type="submit"].btn.btn-mini {
   margin-left: -20px;
   font-size: 20px;
   font-weight: 200;
-  color: #763a7a;
+  color: #0288ad;
   text-shadow: 0 1px 0 #ffffff;
 }
 .navbar .brand:hover {
@@ -5280,7 +5280,7 @@ input[type="submit"].btn.btn-mini {
   line-height: 40px;
 }
 .navbar-link {
-  color: #777777;
+  color: #0288ad;
 }
 .navbar-link:hover {
   color: #333333;
@@ -5469,7 +5469,7 @@ input[type="submit"].btn.btn-mini {
 .navbar .nav > li > a {
   float: none;
   padding: 10px 15px 10px;
-  color: #777777;
+  color: #0288ad;
   text-decoration: none;
   text-shadow: 0 1px 0 #ffffff;
 }
@@ -5686,8 +5686,8 @@ input[type="submit"].btn.btn-mini {
   color: #555555;
 }
 .navbar .nav li.dropdown > .dropdown-toggle .caret {
-  border-top-color: #777777;
-  border-bottom-color: #777777;
+  border-top-color: #0288ad;
+  border-bottom-color: #0288ad;
 }
 .navbar .nav li.dropdown.open > .dropdown-toggle .caret,
 .navbar .nav li.dropdown.active > .dropdown-toggle .caret,
@@ -8782,14 +8782,14 @@ body {
     display: none;
   }
   .nav-collapse .nav .nav-header {
-    color: #777777;
+    color: #0288ad;
     text-shadow: none;
   }
   .nav-collapse .nav > li > a,
   .nav-collapse .dropdown-menu a {
     padding: 9px 15px;
     font-weight: bold;
-    color: #777777;
+    color: #0288ad;
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border-radius: 3px;
