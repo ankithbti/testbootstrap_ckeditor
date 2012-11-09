@@ -31,4 +31,4 @@ Heroku Options
 ----------------
 ### heroku apps:create bootstrapckeditor
 ### git push heroku master
-### 
+### heroku run rake db:migrate
