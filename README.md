@@ -16,3 +16,12 @@ Add in application.js
 
 Add in form:
 <%= form.input :content, :as => :ckeditor, :label => false, :input_html => { :toolbar => 'Full' } %>
+
+
+
+To stop the authentication while pushing to git hub again and again
+--------------------------------------------------------------------
+In file .git/config
+https://github.com....
+to
+git@github.com:.....
