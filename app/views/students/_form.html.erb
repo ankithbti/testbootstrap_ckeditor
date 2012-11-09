@@ -1,0 +1,12 @@
+<%= simple_form_for @student, :html => { :class => 'form-horizontal' } do |f| %>
+
+  <%= f.input :name, :hint => "Name length hould be atleast 4", require: false %>
+
+  <%= f.input :info, :as => :ckeditor, :label => false, :input_html => { :toolbar => 'Full' } %>
+
+  <div class="form-actions">
+    <%= f.button :submit, :class => 'btn-primary' %>
+    <%= link_to t('.cancel', :default => t("helpers.links.cancel")),
+                students_path, :class => 'btn' %>
+  </div>
+<% end %>
