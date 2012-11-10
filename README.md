@@ -120,7 +120,6 @@ To add nav Bar:
       </div>
     </div>
 
-
 To install simple form
 ------------------------
 ##Add gem: 
